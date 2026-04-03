@@ -40,6 +40,7 @@ Redecta is built with modern privacy and security expectations in mind.
 - Designed with GDPR and KVKK principles in mind
 - Minimizes exposure risk by design
 - Reduces unnecessary handling of sensitive input
+- Built to support enterprise security and compliance requirements
 
 ## Status
 
